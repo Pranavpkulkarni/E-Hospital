@@ -1,0 +1,200 @@
+.home{
+    background-color: #E1EEFF;
+    height: 500px;
+}
+.nav-link{
+    font-size: 20px;
+    display: space-between;
+    position: relative;
+}
+.home-bottomline{
+    background-color: #0360D9;
+    height: 130px;
+    color: white;
+    justify-content: space-around;
+}
+.img-fluid{
+    margin-top: 136px; 
+    size: 100px;
+    object-fit: cover;
+
+}
+
+.text1{
+
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 50px;
+}
+.lead{
+    font-size: 40px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+
+}
+.fav{
+    font-size: 40px;
+    font-family: "IBM Plex Sans", serif;
+    color: #0360D9;
+}
+.s-heading{
+    font-size: 40px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #E6F5FC; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+
+/* Optional: Card Styling */
+.card {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.whywe{
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+.wheading{
+    font-size: 48px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+    margin-left: 20px;
+}
+.why-choose-us{
+    margin-top: 20px;
+    line-height: 1;
+}
+.team{
+    background-color: #E1EEFF;;
+}
+.team h1{
+    font-size: 48px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dr{
+    color: #0360D9;
+}
+.doctor-image{
+    object-fit: cover;
+    height: 200px;
+    margin-bottom: 100px;
+    margin-top: -10px;
+}
+.dr-info{
+    font-size: 20px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+}
+.quality-health{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.quality-health h1{
+    font-size: 48px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+.quality-health p{
+    font-family: "IBM Plex Sans", serif;
+    text-align: justify;
+}
+.book-appoinment {
+    background-color: #0360D9; 
+    height: 300px; 
+    margin-bottom: 90px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-radius: 10px;
+}
+.book-appoinment h1{
+    font-size: 48px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+    color: white;
+    margin-top: 140px;
+}
+.card {
+    border-color: #007bff;
+    border-radius: 10px; 
+    width: 100%;
+    margin-top: 20px; 
+}
+
+.card-title {
+    color: #007bff; /* Blue title color */
+    margin-bottom: 20px; /* Add space below the title */
+}
+
+.form-control {
+    border-radius: 5px; /* Rounded corners for form inputs */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Blue button */
+    border-color: #007bff;
+    border-radius: 5px; /* Rounded corners for the button */
+}
+.contact-us{
+    background-color: #0360D9;
+    width: 100%;
+    height: 500px;
+
+}
+.e-hospital{
+    font-size: 25px;
+    font-family: "IBM Plex Sans", serif;
+    font-weight: 800;
+    color: white;
+    margin-top: 90px;
+}
+.contact-us p{
+    font-size: 18px;
+    font-family: "IBM Plex Sans", serif;
+    color: white;
+}
+.social-icons{
+    justify-content: space-evenly;
+}
+.whatsapp-logo {
+    position: fixed;
+    bottom: 20px; /* Distance from bottom */
+    right: 20px; /* Distance from right */
+    z-index: 1000;
+    background-color: #25D366;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.whatsapp-logo a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+.whatsapp-logo:hover {
+    background-color: #20b951;
+    cursor: pointer;
+}
+
+
+
